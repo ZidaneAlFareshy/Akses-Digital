@@ -1,0 +1,39 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #f8f9fa;
+}
+
+.login-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.login-container h2 {
+    font-weight: bold;
+    color: #343a40;
+}
+
+.login-container h4 {
+    color: #6c757d;
+}
+
+.btn-primary {
+    background-color: #e65f2b;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #c75122;
+}
+
+a {
+    color: #e65f2b;
+}
+
+a:hover {
+    color: #c75122;
+}
