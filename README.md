@@ -1,6 +1,6 @@
 # Tentang Tes
 
-Proyek ini merupakan implementasi dari test case UI/UX menggunakan framework Laravel terbaru. Proyek ini bertujuan untuk membangun antarmuka pengguna yang telah dibuat pada <b>Test Case UX Develper</b> sebelumnya. Proyek ini dijalankan di lingkungan Laragon dan menggunakan MySQL sebagai basis data serta phpMyAdmin sebagai alat manajemen basis data (nama databasenya adalah akses_digital).
+Proyek ini merupakan implementasi dari test case UI/UX menggunakan framework Laravel terbaru. Proyek ini bertujuan untuk membangun antarmuka pengguna yang telah dibuat pada <b>Test Case UX Develper</b> sebelumnya. Proyek ini dijalankan di lingkungan Laragon dan menggunakan MySQL sebagai basis data serta phpMyAdmin sebagai alat manajemen basis data.
 
 ## Teknologi yang Digunakan
 
@@ -18,12 +18,20 @@ Proyek ini merupakan implementasi dari test case UI/UX menggunakan framework Lar
 -   MySQL (untuk basis data)
 -   phpMyAdmin (opsional, untuk mengelola database melalui antarmuka web)
 
-## Screenshoot Aplikasi
+## Keterangan Tambahan
 
+Data dummy berada pada database berada di folder <b>database</b> dengan nama akses_digital.sql
+
+## Screenshot Aplikasi
+
+Tampilan Halaman Login
 ![Tampilan Login](public/images/tampilan%20login.png)
 
+Tampilan Halaman Register
 ![Tampilan Register](public/images/tampilan%20register.png)
 
+Tampilan Halaman Dashboard
 ![Tampilan Dashboard](public/images/tampilan%20dashboard.png)
 
+Tampilan Halaman Salah Satu Menu
 ![Tampilan Dashboard](public/images/tampilan%20menu.png)
