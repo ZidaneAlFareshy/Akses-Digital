@@ -20,7 +20,7 @@ Proyek ini merupakan implementasi dari test case UI/UX menggunakan framework Lar
 
 ## Keterangan Tambahan
 
-Data dummy berada pada database berada di folder <b>database</b> dengan nama akses_digital.sql
+Data dummy ada pada database yang berada di folder <b>database</b> dengan nama akses_digital.sql
 
 ## Screenshot Aplikasi
 
