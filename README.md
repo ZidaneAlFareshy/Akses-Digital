@@ -1,6 +1,6 @@
-# Tentang Tes
+# Tentang Aplikasi
 
-Proyek ini merupakan implementasi dari test case UI/UX menggunakan framework Laravel terbaru. Proyek ini bertujuan untuk membangun antarmuka pengguna yang telah dibuat pada <b>Test Case UX Developer</b> sebelumnya. Proyek ini dijalankan di lingkungan Laragon dan menggunakan MySQL sebagai basis data serta phpMyAdmin sebagai alat manajemen basis data.
+Aplikasi ini dirancang untuk membantu organisasi IT dalam mengelola proyek, sumber daya, infrastruktur, keuangan, serta hubungan dengan pelanggan. Dengan fitur manajemen data yang terintegrasi, sistem ini memastikan efisiensi operasional dan pengambilan keputusan berbasis data.
 
 ## Teknologi yang Digunakan
 
